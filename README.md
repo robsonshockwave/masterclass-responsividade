@@ -87,6 +87,6 @@ Sempre que possível, usar SVG ao invés de JPG, PNG
 ## Layouts
 
 <p align="center">
-	<img alt="layout iphone" src="github/iphone.PNG" witdh="30%">
-	<img alt="layout notebook" src="github/notebook.PNG" widht="30%"
+	<img alt="layout iphone" src="github/iphone.PNG" witdh="60px">
+	<img alt="layout notebook" src="github/notebook.PNG" widht="200px"
 </p>
