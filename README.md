@@ -33,13 +33,13 @@ Texto fluidos
 
 ## CSS Media Queries 
 
-No HTMl eu coloco a seguinte tag meta
+No HTMl utiliza-se a seguinte tag meta
 
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 
-No CSS eu uso da seguinte forma
+No CSS utiliza da seguinte forma
 
 ```css
 @media (max-width: 320px) {
@@ -51,7 +51,7 @@ No CSS eu uso da seguinte forma
 
 ## HTML Media Attrib.
 
-Posso utilizar o atribuito `media` no link do meu HTML, ao importar um arquivo css, usando as propriedades da mesma forma que usaria na regra `@media` do css.
+Utiliza-se o atribuito `media` no link do meu HTML, ao importar um arquivo css, usando as propriedades da mesma forma que usaria na regra `@media` do css.
 
 ```html
 <link 
@@ -65,7 +65,7 @@ Posso utilizar o atribuito `media` no link do meu HTML, ao importar um arquivo c
 
 ## Imagens
 
-Usamos a tag `<picture>` para que as imagens sejam responsivas.
+Utiliza-se a tag `<picture>` para que as imagens sejam responsivas.
 
 ```html
 <picture class="image" alt="Imagem">
@@ -82,11 +82,8 @@ Usamos a tag `<picture>` para que as imagens sejam responsivas.
 </picture>
 ```
 
-Sempre que possível, usar SVG ao invés de JPG, PNG
-
 ## Layouts
 
 <p align="center">
-	<img alt="layout iphone" src="github/iphone.PNG" witdh="60px">
-	<img alt="layout notebook" src="github/notebook.PNG" widht="200px"
+	<img alt="layout iphone notebook" src="github/exemplo.PNG">
 </p>
